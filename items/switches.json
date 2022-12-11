@@ -1,0 +1,23 @@
+[
+	//Tower of the Wing Cap
+	{
+		"name": "Wing Cap Switch",
+		"type": "toggle",
+		"img": "images/switches/Wing Cap Switch.png",
+		"codes": "wcS"
+	},
+	//Cavern of the Metal Cap
+	{
+		"name": "Metal Cap Switch",
+		"type": "toggle",
+		"img": "images/switches/Metal Cap Switch.png",
+		"codes": "mcS"
+	},
+	//Vanish Cap Under the Moat
+	{
+		"name": "Vanish Cap Switch",
+		"type": "toggle",
+		"img": "images/switches/Vanish Cap Switch.png",
+		"codes": "vcS"
+	}
+]

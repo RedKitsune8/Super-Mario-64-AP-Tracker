@@ -1,0 +1,17 @@
+{
+  "name": "Super Mario 64 AP Tracker",
+  "game_name": "Super Mario 64ex AP",
+  "package_version": "0.9",
+  "package_uid": "Super-Mario-64-AP-Tracker",
+  "author": "RedKitsune and Qwazzy",
+  "variants": {
+    "standard": {
+      "display_name": "Tabs",
+      "flags": ["ap"]
+    },
+    "var_compact": {
+      "display_name": "Compact",
+      "flags": ["ap"]
+    }
+  }
+}

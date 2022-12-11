@@ -1,0 +1,25 @@
+{
+	"type": "container",
+	"background": "#000000",
+	"content": {
+		"type": "dock",
+		"dropshadow": true,
+		"content": [{
+				"type": "dock",
+				"dock": "left",
+				"v_alignment": "stretch",
+				"margin": "0,0,0,0",
+				"content": [{
+						"type": "group",
+						"dock": "top",
+						"content": {
+							"type": "layout",
+							"margin": 0,
+							"key": "course_grid"
+						}
+					}
+				]
+			}
+		]
+	}
+}

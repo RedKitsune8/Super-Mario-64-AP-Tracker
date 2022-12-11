@@ -1,0 +1,16 @@
+[
+	//Bowser in the Dark World
+	{
+		"name": "Basement Key",
+		"type": "toggle",
+		"img": "images/Key.png",
+		"codes": "BitDWK"
+	},	
+	//Bowser in the Fire Sea
+	{
+		"name": "Second Floor Key",
+		"type": "toggle",
+		"img": "images/Key.png",
+		"codes": "BitFSK"
+	}
+]

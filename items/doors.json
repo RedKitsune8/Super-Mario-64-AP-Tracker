@@ -1,0 +1,171 @@
+[
+	//Whomp's Fortress
+	{
+		"name": "Whomp's Fortress Door",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/doors/Star Door.png",
+				"codes": "wfD"
+			}, {
+				"img": "images/doors/Star Door.png"
+			}
+		]
+	},
+	//Jolly Roger Bay
+	{
+		"name": "Jolly Roger Bay Door",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/doors/Star Door.png",
+				"codes": "jrbD"
+			}, {
+				"img": "images/doors/Star Door.png"
+			}
+		]
+	},
+	//Cool, Cool Mountain
+	{
+		"name": "Cool, Cool Mountain Door",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/doors/Star Door.png",
+				"codes": "ccmD"
+			}, {
+				"img": "images/doors/Star Door.png"
+			}
+		]
+	},
+	//Big Boo's Haunt
+	{
+		"name": "Big Boo's Haunt Door",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/doors/Wood Door.png",
+				"codes": "bbhD"
+			}, {
+				"img": "images/doors/Wood Door.png"
+			}
+		]
+	},
+	//Hazy Maze Cave
+	{
+		"name": "Hazy Maze Cave Door",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/doors/Star Door.png",
+				"codes": "hmcD"
+			}, {
+				"img": "images/doors/Star Door.png"
+			}
+		]
+	},
+	//Dire, Dire Docks
+	{
+		"name": "Dire, Dire Docks Door",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/doors/Big Star Door.png",
+				"codes": "dddD"
+			}, {
+				"img": "images/doors/Big Star Door.png"
+			}
+		]
+	},
+	//Snowman's Land
+	{
+		"name": "Snowman's Land Door",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/doors/Star Door.png",
+				"codes": "slD"
+			}, {
+				"img": "images/doors/Star Door.png"
+			}
+		]
+    },
+	//Tiny-Huge Island
+	{
+		"name": "Tiny-Huge Island Door",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/doors/Star Door.png",
+				"codes": "thiD"
+			}, {
+				"img": "images/doors/Star Door.png"
+			}
+		]
+	},
+	//The Princess's Secret Slide
+	{
+		"name": "The Princess's Secret Slide Door",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/doors/Star Door.png",
+				"codes": "pssD"
+			}, {
+				"img": "images/doors/Star Door.png"
+			}
+		]
+	},
+    //Bowser in the Dark World
+    {
+		"name": "Bowser in the Dark World Door",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/doors/Big Star Door.png",
+				"codes": "BitDWD"
+			}, {
+				"img": "images/doors/Big Star Door.png"
+			}
+		]
+    },
+    //Basement
+    {
+		"name": "Basement Door",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/doors/Wood Door.png",
+				"codes": "bD"
+			}, {
+				"img": "images/doors/Wood Door.png"
+			}
+		]
+	},
+    //Second Floor
+    {
+		"name": "Second Floor Door",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/doors/Wood Door.png",
+				"codes": "2fD"
+			}, {
+				"img": "images/doors/Wood Door.png"
+			}
+		]
+	},
+    //Third Floor
+    {
+		"name": "Third Floor Door",
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/doors/Big Star Door.png",
+				"codes": "3fD"
+			}, {
+				"img": "images/doors/Big Star Door.png"
+			}
+		]
+	}
+]

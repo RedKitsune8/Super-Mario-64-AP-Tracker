@@ -1,0 +1,79 @@
+[
+	//Bob-omb Battlefield
+	{
+		"name": "Bob-omb Battlefield Cannons",
+		"type": "toggle",
+		"img": "images/Bob-omb Buddy.png",
+		"codes": "bobC"
+	},
+	//Whomp's Fortress
+	{
+		"name": "Whomp's Fortress Cannon",
+		"type": "toggle",
+		"img": "images/Bob-omb Buddy.png",
+		"codes": "wfC"
+	},
+	//Jolly Roger Bay
+	{
+		"name": "Jolly Roger Bay Cannon",
+		"type": "toggle",
+		"img": "images/Bob-omb Buddy.png",
+		"codes": "jrbC"
+	},
+	//Cool, Cool Mountain
+	{
+		"name": "Cool, Cool Mountain Cannons",
+		"type": "toggle",
+		"img": "images/Bob-omb Buddy.png",
+		"codes": "ccmC"
+	},
+	//Shifting Sand Land
+	{
+		"name": "Shifting Sand Land Cannon",
+		"type": "toggle",
+		"img": "images/Bob-omb Buddy.png",
+		"codes": "sslC"
+	},
+	//Snowman's Land
+	{
+		"name": "Snowman's Land Cannon",
+		"type": "toggle",
+		"img": "images/Bob-omb Buddy.png",
+		"codes": "slC"
+	},
+	//Wet-Dry World
+	{
+		"name": "Wet-Dry World Cannon",
+		"type": "toggle",
+		"img": "images/Bob-omb Buddy.png",
+		"codes": "wdwC"
+	},
+	//Tall, Tall Mountain
+	{
+		"name": "Tall, Tall Mountain Cannon",
+		"type": "toggle",
+		"img": "images/Bob-omb Buddy.png",
+		"codes": "ttmC"
+	},
+	//Tiny-Huge Island
+	{
+		"name": "Tiny-Huge Island Cannon",
+		"type": "toggle",
+		"img": "images/Bob-omb Buddy.png",
+		"codes": "thiC"
+	},
+	//Rainbow Ride
+	{
+		"name": "Rainbow Ride Cannon",
+		"type": "toggle",
+		"img": "images/Bob-omb Buddy.png",
+		"codes": "rrC"
+	},
+	//Wing Mario Over the Rainbow
+	{
+		"name": "Wing Mario Over the Rainbow Cannons",
+		"type": "toggle",
+		"img": "images/Bob-omb Buddy.png",
+		"codes": "WMOtRC"
+	}
+]

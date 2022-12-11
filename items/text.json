@@ -1,0 +1,362 @@
+[
+	//Seed Digit 1
+	{
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/text/Question Mark.png",
+				"codes": "seedDigit1"
+			}, {
+				"img": "images/text/0.png"
+			}, {
+				"img": "images/text/1.png"
+			}, {
+				"img": "images/text/2.png"
+			}, {
+				"img": "images/text/3.png"
+			}, {
+				"img": "images/text/4.png"
+			}, {
+				"img": "images/text/5.png"
+			}, {
+				"img": "images/text/6.png"
+			}
+		]
+	},
+	//Seed Digit 2
+	{
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/text/Question Mark.png",
+				"codes": "seedDigit2"
+			}, {
+				"img": "images/text/0.png"
+			}, {
+				"img": "images/text/1.png"
+			}, {
+				"img": "images/text/2.png"
+			}, {
+				"img": "images/text/3.png"
+			}, {
+				"img": "images/text/4.png"
+			}, {
+				"img": "images/text/5.png"
+			}, {
+				"img": "images/text/6.png"
+			}, {
+				"img": "images/text/7.png"
+			}, {
+				"img": "images/text/8.png"
+			}, {
+				"img": "images/text/9.png"
+			}
+		]
+	},
+	//Seed Digit 3
+	{
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/text/Question Mark.png",
+				"codes": "seedDigit3"
+			}, {
+				"img": "images/text/0.png"
+			}, {
+				"img": "images/text/1.png"
+			}, {
+				"img": "images/text/2.png"
+			}, {
+				"img": "images/text/3.png"
+			}, {
+				"img": "images/text/4.png"
+			}, {
+				"img": "images/text/5.png"
+			}, {
+				"img": "images/text/6.png"
+			}, {
+				"img": "images/text/7.png"
+			}, {
+				"img": "images/text/8.png"
+			}, {
+				"img": "images/text/9.png"
+			}
+		]
+	},
+	//Seed Digit 4
+	{
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/text/Question Mark.png",
+				"codes": "seedDigit4"
+			}, {
+				"img": "images/text/0.png"
+			}, {
+				"img": "images/text/1.png"
+			}, {
+				"img": "images/text/2.png"
+			}, {
+				"img": "images/text/3.png"
+			}, {
+				"img": "images/text/4.png"
+			}, {
+				"img": "images/text/5.png"
+			}, {
+				"img": "images/text/6.png"
+			}, {
+				"img": "images/text/7.png"
+			}, {
+				"img": "images/text/8.png"
+			}, {
+				"img": "images/text/9.png"
+			}
+		]
+	},
+	//Seed Digit 5
+	{
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/text/Question Mark.png",
+				"codes": "seedDigit5"
+			}, {
+				"img": "images/text/0.png"
+			}, {
+				"img": "images/text/1.png"
+			}, {
+				"img": "images/text/2.png"
+			}, {
+				"img": "images/text/3.png"
+			}, {
+				"img": "images/text/4.png"
+			}, {
+				"img": "images/text/5.png"
+			}, {
+				"img": "images/text/6.png"
+			}, {
+				"img": "images/text/7.png"
+			}, {
+				"img": "images/text/8.png"
+			}, {
+				"img": "images/text/9.png"
+			}
+		]
+	},
+	//Seed Text
+	{
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/text/Seed.png",
+				"codes": "textSeed"
+			}, {
+				"img": "images/text/Seed.png"
+			}
+		]
+	},
+	//Star Text
+	{
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/text/Star.png",
+				"codes": "textStar"
+			}, {
+				"img": "images/text/Star.png"
+			}
+		]
+	},
+	//X Text
+	{
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/text/X.png",
+				"codes": "textX"
+			}, {
+				"img": "images/text/X.png"
+			}
+		]
+	},
+	//Bob-omb Battlefield Text
+	{
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/text/course names/Bob-omb Battlefield.png",
+				"codes": "bobT"
+			}, {
+				"img": "images/text/course names/Bob-omb Battlefield.png"
+			}
+		]
+	},
+	//Whomp's Fortress Text
+	{
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/text/course names/Whomp's Fortress.png",
+				"codes": "wfT"
+			}, {
+				"img": "images/text/course names/Whomp's Fortress.png"
+			}
+		]
+	},
+	//Jolly Roger Bay Text
+	{
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/text/course names/Jolly Roger Bay.png",
+				"codes": "jrbT"
+			}, {
+				"img": "images/text/course names/Jolly Roger Bay.png"
+			}
+		]
+	},
+	//Cool, Cool Mountain Text
+	{
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/text/course names/Cool, Cool Mountain.png",
+				"codes": "ccmT"
+			}, {
+				"img": "images/text/course names/Cool, Cool Mountain.png"
+			}
+		]
+	},
+	//Big Boo's Haunt Text
+	{
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/text/course names/Big Boo's Haunt.png",
+				"codes": "bbhT"
+			}, {
+				"img": "images/text/course names/Big Boo's Haunt.png"
+			}
+		]
+	},
+	//Hazy Maze Cave font
+	{
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/text/course names/Hazy Maze Cave.png",
+				"codes": "hmcT"
+			}, {
+				"img": "images/text/course names/Hazy Maze Cave.png"
+			}
+		]
+	},
+	//Lethal Lava Land Text
+	{
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/text/course names/Lethal Lava Land.png",
+				"codes": "lllT"
+			}, {
+				"img": "images/text/course names/Lethal Lava Land.png"
+			}
+		]
+	},
+	//Shifting Sand Land Text
+	{
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/text/course names/Shifting Sand Land.png",
+				"codes": "sslT"
+			}, {
+				"img": "images/text/course names/Shifting Sand Land.png"
+			}
+		]
+	},
+	//Dire, Dire Docks Text
+	{
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/text/course names/Dire, Dire Docks.png",
+				"codes": "dddT"
+			}, {
+				"img": "images/text/course names/Dire, Dire Docks.png"
+			}
+		]
+	},
+	//Snowman's Land Text
+	{
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/text/course names/Snowman's Land.png",
+				"codes": "slT"
+			}, {
+				"img": "images/text/course names/Snowman's Land.png"
+			}
+		]
+	},
+	//Wet-Dry World Text
+	{
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/text/course names/Wet-Dry World.png",
+				"codes": "wdwT"
+			}, {
+				"img": "images/text/course names/Wet-Dry World.png"
+			}
+		]
+	},
+	//Tall, Tall Mountain font
+	{
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/text/course names/Tall, Tall Mountain.png",
+				"codes": "ttmT"
+			}, {
+				"img": "images/text/course names/Tall, Tall Mountian.png"
+			}
+		]
+	},
+	//Tiny-Huge Island Text
+	{
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/text/course names/Tiny-Huge Island.png",
+				"codes": "thiT"
+			}, {
+				"img": "images/text/course names/Tiny-Huge Island.png"
+			}
+		]
+	},
+	//Tick Tock Clock Text
+	{
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/text/course names/Tick Tock Clock.png",
+				"codes": "ttcT"
+			}, {
+				"img": "images/text/course names/Tick Tock Clock.png"
+			}
+		]
+	},
+	//Rainbow Ride Text
+	{
+		"allow_disabled": false,
+		"type": "progressive",
+		"stages": [{
+				"img": "images/text/course names/Rainbow Ride.png",
+				"codes": "rrT"
+			}, {
+				"img": "images/text/course names/Rainbow Ride.png"
+			}
+		]
+	}
+]
